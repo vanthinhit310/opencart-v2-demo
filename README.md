@@ -2,10 +2,6 @@
 
 This project is a study and research project focused on Opencart version 2.3.0.2. The goal of this project is to explore the features and functionality of Opencart v2 and gain a deeper understanding of its capabilities.
 
-# Opencart v2 Demo
-
-This project is a study and research project focused on Opencart version 2.3.0.2. The goal of this project is to explore the features and functionality of Opencart v2 and gain a deeper understanding of its capabilities.
-
 ## Setup with Docker
 
 This project can be set up using Docker and Docker Compose. Here are the steps to get it up and running:
