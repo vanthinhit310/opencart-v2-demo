@@ -1,1 +1,4 @@
 dbdata
+logs/mysql/*
+logs/nginx/*
+logs/php/*s
