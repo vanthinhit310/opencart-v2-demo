@@ -4,8 +4,8 @@ define('HTTP_SERVER', 'http://oc-demo.test/admin/');
 define('HTTP_CATALOG', 'http://oc-demo.test/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://oc-demo.test/admin/');
-define('HTTPS_CATALOG', 'http://oc-demo.test/');
+define('HTTPS_SERVER', 'https://oc-demo.test/admin/');
+define('HTTPS_CATALOG', 'https://oc-demo.test/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/html/admin/');
