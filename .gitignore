@@ -3,3 +3,5 @@ logs/mysql/*
 logs/nginx/*
 logs/php/*s
 cache*
+*.key
+*.crt
